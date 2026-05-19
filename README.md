@@ -43,3 +43,10 @@ https://auroramarket.org
 ---
 
 Built with ❤️ by Aurora Rayes LLC
+
+## Aurora Rayes ecosystem alignment
+This repository is positioned within the **Aurora Rayes ecosystem** for consistent product narrative, sales readiness, and marketing communication.
+
+## No-key-first onboarding
+This project follows a **no-key-first** approach: core flows should be reviewable before adding external API keys. Use .env.example when enabling optional integrations.
+
